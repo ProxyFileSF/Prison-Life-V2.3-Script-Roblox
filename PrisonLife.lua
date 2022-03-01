@@ -1,5 +1,4 @@
--- Variables
-
+-- Prison-Life-V2.3 made by ProxyFile
 -- UI Libary <-
 local library = loadstring(game:HttpGet(('https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/wall%20v3')))()
 local w = library:CreateWindow("Prison-Life V2.3")
